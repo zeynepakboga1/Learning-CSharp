@@ -21,7 +21,9 @@ namespace Conditionals
                 Console.WriteLine("colour is red");
 
             //single line if ile çalışmak
-
+            var number2 = 30;
+            Console.WriteLine(number2 == 20 ? "number is true" : "number is false");
+            //
              
             Console.ReadLine();
         }
