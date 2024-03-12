@@ -42,7 +42,9 @@ namespace Exercise
              Console.WriteLine("Girrmiş olduğunuz sayi pozitiftir");
             Console.ReadKey();
 
-            
+
+
+
 
 
 
