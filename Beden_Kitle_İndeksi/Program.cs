@@ -34,7 +34,7 @@ namespace Beden_Kitle_İndeksi
             else if (sonuc>25)
             {
                 Console.WriteLine("beden kitle indeksiniz =OBEZ");
-                Console.ReadLine();
+                Console.ReadLine();//.
             }
 
         }
