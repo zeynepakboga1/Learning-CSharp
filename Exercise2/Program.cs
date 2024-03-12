@@ -55,14 +55,7 @@ namespace Exercise2
             else
                 Console.WriteLine( "F aldınız");
             Console.ReadLine();
-            // Mini ATM uygulaması yapma
-            //kullanıcıya nasıl bir işlem yapmak istediğini sor
-            //1bakiye görüntüleme
-            //2para yatırma
-            //3para çekme
-            //qya basarsa çıkış yaptır
-            Console.WriteLine(  A);
-            Console.WriteLine( "yapmak istediğiniz işlemi seçiniz:" );
+            
 
 
 
