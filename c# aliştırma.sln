@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "Exercise2\Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_Atm_Uygulaması", "Mini_Atm_Uygulaması\Mini_Atm_Uygulaması.csproj", "{B49D02A1-CDEA-40A8-8817-B21FC679B3B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beden_Kitle_İndeksi", "Beden_Kitle_İndeksi\Beden_Kitle_İndeksi.csproj", "{90CAEFCA-B695-4BAF-8B66-76E264BF459C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{B49D02A1-CDEA-40A8-8817-B21FC679B3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B49D02A1-CDEA-40A8-8817-B21FC679B3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B49D02A1-CDEA-40A8-8817-B21FC679B3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CAEFCA-B695-4BAF-8B66-76E264BF459C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CAEFCA-B695-4BAF-8B66-76E264BF459C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CAEFCA-B695-4BAF-8B66-76E264BF459C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CAEFCA-B695-4BAF-8B66-76E264BF459C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{613F4846-C2B7-45E4-A1B4-31E3D9FFED2A} = {A2C0FCDB-D72F-4443-8D3C-EC7FA76142E8}
 		{247554D8-DC35-471C-89A7-A92100ECF503} = {A2C0FCDB-D72F-4443-8D3C-EC7FA76142E8}
 		{B49D02A1-CDEA-40A8-8817-B21FC679B3B3} = {A2C0FCDB-D72F-4443-8D3C-EC7FA76142E8}
+		{90CAEFCA-B695-4BAF-8B66-76E264BF459C} = {A2C0FCDB-D72F-4443-8D3C-EC7FA76142E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CD4DC10D-DA4B-4C57-B505-75727C3E084F}
