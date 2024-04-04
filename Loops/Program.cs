@@ -66,7 +66,8 @@ namespace Loops
                 y -= 2;
             }
             Console.ReadLine();
-
+            //foreach döngüsü
+            string harfler
 
         } 
 
